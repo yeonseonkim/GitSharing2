@@ -12,4 +12,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-//아아 주석주석
+//아아 주석주석 닐리리
