@@ -1,6 +1,6 @@
 package com.example.gitsharing;
 
 public class new_file_git {
-    //은녕은녕123
+    //연선연선123
     //재시도
 }
